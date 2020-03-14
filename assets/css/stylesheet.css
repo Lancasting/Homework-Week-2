@@ -1,0 +1,27 @@
+.navbar-brand {
+    background-color: #b3ffff;
+    color: #000000;
+}
+.navbar-link {
+    color: darkgray;
+    padding-right: .5rem;
+    padding-left: .5rem;
+}
+.navbar-link:hover {
+    cursor: pointer;
+    color: darkgray;
+}
+.container-helper {
+    margin: 25px 40px;
+}
+
+.gocarts {
+    transform: rotate(90deg);
+    max-height: 100%;
+    
+}
+
+.ladybird {
+    transform: rotate(90deg);
+    max-height: 70%;
+}
