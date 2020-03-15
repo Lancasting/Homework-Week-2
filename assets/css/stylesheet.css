@@ -11,17 +11,6 @@
     cursor: pointer;
     color: darkgray;
 }
-.container-helper {
-    margin: 25px 40px;
-}
-
-.gocarts {
-    transform: rotate(90deg);
-    max-height: 100%;
-    
-}
-
-.ladybird {
-    transform: rotate(90deg);
-    max-height: 70%;
+.container {
+    margin-top: 25px;
 }
